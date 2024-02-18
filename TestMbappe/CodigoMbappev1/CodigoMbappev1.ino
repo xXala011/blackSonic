@@ -14,7 +14,7 @@ QTRSensors qtr;
 //Definiendo Constantes para PID
 int KP=1;
 int KI=0;
-int KD=1;
+int KD=4;
 int lastError = 0;
 int integral = 0;
 
